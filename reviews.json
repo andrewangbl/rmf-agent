@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Chen",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Dr. Chen's lectures are incredibly engaging. She explains complex concepts with clarity and enthusiasm."
+    },
+    {
+      "professor": "Prof. Michael Johnson",
+      "subject": "History",
+      "stars": 4,
+      "review": "Prof. Johnson brings history to life with his storytelling. However, his assignments can be quite demanding."
+    },
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Dr. Thompson's passion for biology is contagious. Her lab sessions are particularly well-organized and informative."
+    },
+    {
+      "professor": "Prof. David Lee",
+      "subject": "Mathematics",
+      "stars": 3,
+      "review": "Prof. Lee knows his subject well, but sometimes struggles to explain concepts to non-math majors."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Dr. Green's classes are always thought-provoking. She encourages critical thinking and class participation."
+    },
+    {
+      "professor": "Prof. Robert Brown",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Prof. Brown's experiments are fascinating, but his lectures can be a bit dry at times."
+    },
+    {
+      "professor": "Dr. Lisa Wang",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Dr. Wang is an excellent teacher who makes coding accessible and fun. Her office hours are incredibly helpful."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "English Literature",
+      "stars": 2,
+      "review": "Prof. Wilson seems disinterested in teaching. His feedback on essays is minimal and unhelpful."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Sociology",
+      "stars": 4,
+      "review": "Dr. Garcia's classes are eye-opening. She presents diverse perspectives on social issues."
+    },
+    {
+      "professor": "Prof. Thomas Anderson",
+      "subject": "Economics",
+      "stars": 3,
+      "review": "Prof. Anderson knows his subject well, but his teaching style can be confusing for beginners."
+    },
+    {
+      "professor": "Dr. Karen White",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. White's passion for art is inspiring. Her virtual museum tours are a highlight of the course."
+    },
+    {
+      "professor": "Prof. John Smith",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Prof. Smith encourages lively debates in class. His assignments are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Emma Taylor",
+      "subject": "Neuroscience",
+      "stars": 5,
+      "review": "Dr. Taylor explains complex brain functions in an understandable way. Her research insights are fascinating."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Philosophy",
+      "stars": 3,
+      "review": "Prof. Kim's lectures can be hard to follow. However, his reading list is excellent and thought-provoking."
+    },
+    {
+      "professor": "Dr. Olivia Martinez",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Dr. Martinez's field trips make learning about ecosystems exciting. She's also very approachable outside of class."
+    },
+    {
+      "professor": "Prof. Christopher Lee",
+      "subject": "Music Theory",
+      "stars": 4,
+      "review": "Prof. Lee is a skilled musician and teacher. His ear training exercises are particularly helpful."
+    },
+    {
+      "professor": "Dr. Sophia Patel",
+      "subject": "Genetics",
+      "stars": 5,
+      "review": "Dr. Patel makes complex genetic concepts easy to understand. Her enthusiasm for the subject is contagious."
+    },
+    {
+      "professor": "Prof. William Turner",
+      "subject": "Film Studies",
+      "stars": 2,
+      "review": "Prof. Turner often seems unprepared for lectures. The course feels disorganized and lacks structure."
+    },
+    {
+      "professor": "Dr. Natalie Wong",
+      "subject": "Linguistics",
+      "stars": 4,
+      "review": "Dr. Wong's classes are fascinating. She brings in real-world examples that make language study come alive."
+    },
+    {
+      "professor": "Prof. Alexander Ivanov",
+      "subject": "International Relations",
+      "stars": 3,
+      "review": "Prof. Ivanov has extensive knowledge but can be intimidating. His grading is quite harsh."
+    }
+  ]
+}

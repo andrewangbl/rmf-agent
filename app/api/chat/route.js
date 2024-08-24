@@ -74,7 +74,7 @@ export async function POST(req) {
     model: "gpt-4o-mini",
     stream: true
   })
-  const stream = ReadableStream({
+  const stream = new ReadableStream({
     async start(controller) {
       const encoder = new TextEncoder()
       try{
